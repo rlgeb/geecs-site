@@ -47,7 +47,9 @@ a{
 }
 .co-top span.right{
 	float: right;
+	padding-right:10px;
 }
+
 .co-top span.right a{
 	float: left;
 	display: block;
