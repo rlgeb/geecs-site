@@ -14,3 +14,10 @@ https://mfile.umich.edu/make-webspac e/index.php
 
 to access the server login: uniqname@login.engin.umich.edu
 our website live here: /afs/umich.edu/group/g/geecs/Public/html
+
+
+if you don't have permission read this to learn how:
+
+http://www.itcs.umich.edu/itcsdocs/s4349/
+
+make sure you login to its.umich.edu NOT engin.umich.edu!
