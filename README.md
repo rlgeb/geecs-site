@@ -1,28 +1,27 @@
-geecs-site
-==========
-
-**Description**
+# geecs-site
 
 website for the university of michigan girls in electrical engineering and computer science (geecs) student org.
 
 url -> http://www.umich.edu/~geecs/
 
-**Notes**
 
-*Location*
+
+#### Location
 
 to access the server login: uniqname@login.engin.umich.edu
 our website live here: /afs/umich.edu/group/g/geecs/Public/html
 
-*Editing*
+#### Editing
 
 Use spaces not tabs
 
-*Site Managment* (set up your IFS directory to be able to serve web pages)
+#### Site Managment 
+
+[set up your IFS directory to be able to serve web pages]
 
 managing the site can be done here -> https://mfile.umich.edu/make-webspac e/index.php
 
-*Website Permissions*
+#### Website Permissions
 
 Detailed documentation can be found here -> http://www.itcs.umich.edu/itcsdocs/s4349/
 
