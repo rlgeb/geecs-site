@@ -1,6 +1,6 @@
 # geecs-site
 
-website for the university of michigan girls in electrical engineering and computer science (geecs) student org.
+Website for the university of michigan girls in electrical engineering and computer science (geecs) student org.
 
 url -> http://www.umich.edu/~geecs/
 
@@ -8,8 +8,8 @@ url -> http://www.umich.edu/~geecs/
 
 #### Location
 
-to access the server login: uniqname@login.engin.umich.edu
-our website live here: /afs/umich.edu/group/g/geecs/Public/html
+to access the server login: uniqname@login.engin.umich.edu <br />
+our website lives here: /afs/umich.edu/group/g/geecs/Public/html
 
 #### Editing
 
@@ -19,7 +19,7 @@ Use spaces not tabs
 
 [set up your IFS directory to be able to serve web pages]
 
-managing the site can be done here -> https://mfile.umich.edu/make-webspac e/index.php
+managing the site can be done here -> https://mfile.umich.edu/make-webspace/index.php
 
 #### Website Permissions
 
