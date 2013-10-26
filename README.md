@@ -62,3 +62,7 @@ then push the changes you made to the remote origin
 finally right now you need to login to the server and do a git pull to pull down the latest version of the code.
 
 <code>git pull</code>
+
+
+
+For more info check out the Getting Started Guide <a href='https://github.com/rlgeb/geecs-site/wiki/Getting-Started-Example'>Here</a>
